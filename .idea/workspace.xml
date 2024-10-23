@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7d4fa3f4-cfb1-4d32-9b1d-56a2c1163118" name="Changes" comment="Soporte de pruebas parametricas unitarias.">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ec/epn/edu/CalculadoraExecute.java" afterDir="false" />
+    <list default="true" id="7d4fa3f4-cfb1-4d32-9b1d-56a2c1163118" name="Changes" comment="Implementacion de CalculadoraExecute y creacion de Calculadora-1.0-SNAPSHOT.jar">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ec/epn/edu/CalculadoraExecute.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ec/epn/edu/CalculadoraExecute.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,55 +28,55 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "arielssa"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;arielssa&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/arielssa/GR03_1BP3_622_24A.git",
-    "accountId": "cba04d8a-7dca-4623-8bf4-3554b1d5aa38"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/arielssa/GR03_1BP3_622_24A.git&quot;,
+    &quot;accountId&quot;: &quot;cba04d8a-7dca-4623-8bf4-3554b1d5aa38&quot;
   }
-}]]></component>
+}</component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2nobzpYklfJcPrJFQTkEvjrYHkA" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.CalculadoraExecute.executor": "Run",
-    "JUnit.CalculadoraTest.executor": "Run",
-    "JUnit.CalculadoraTest.testSumar.executor": "Run",
-    "JUnit.CalculadoraTestConParametros.executor": "Run",
-    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
-    "Maven.Calculadora [clean].executor": "Run",
-    "Maven.Calculadora [package].executor": "Run",
-    "Maven.Calculadora [test].executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Facets",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.CalculadoraExecute.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CalculadoraTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CalculadoraTest.testSumar.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CalculadoraTestConParametros.executor&quot;: &quot;Run&quot;,
+    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.Calculadora [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.Calculadora [package].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.Calculadora [test].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Facets&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.CalculadoraExecute">
     <configuration name="CalculadoraExecute" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ec.epn.edu.CalculadoraExecute" />
@@ -163,6 +163,7 @@
       <option name="presentableId" value="Default" />
       <updated>1729642643052</updated>
       <workItem from="1729642644232" duration="4377000" />
+      <workItem from="1729648087131" duration="1955000" />
     </task>
     <task id="LOCAL-00001" summary="Implementacion de Calculadora y CalculadoraTest.">
       <option name="closed" value="true" />
@@ -180,7 +181,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729645820755</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Implementacion de CalculadoraExecute y creacion de Calculadora-1.0-SNAPSHOT.jar">
+      <option name="closed" value="true" />
+      <created>1729648438387</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1729648438387</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -201,6 +210,7 @@
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Implementacion de Calculadora y CalculadoraTest." />
     <MESSAGE value="Soporte de pruebas parametricas unitarias." />
-    <option name="LAST_COMMIT_MESSAGE" value="Soporte de pruebas parametricas unitarias." />
+    <MESSAGE value="Implementacion de CalculadoraExecute y creacion de Calculadora-1.0-SNAPSHOT.jar" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implementacion de CalculadoraExecute y creacion de Calculadora-1.0-SNAPSHOT.jar" />
   </component>
 </project>

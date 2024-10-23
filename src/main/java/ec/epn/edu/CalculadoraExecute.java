@@ -14,8 +14,13 @@ public class CalculadoraExecute {
         double resta = calculadora.restar(36,3);
         System.out.println("calculadora.restar(36,3) = " + resta);
 
+        System.out.println("==== Modificacion ====");
 
+        double multiplicacion = calculadora.multiplicar(6,6);
+        System.out.println("calculadora.multiplicar(6,6) = " + multiplicacion);
 
+        double division = calculadora.dividir(33, 11);
+        System.out.println("calculadora.dividir(33, 11) = " + division);
 
 
     }
