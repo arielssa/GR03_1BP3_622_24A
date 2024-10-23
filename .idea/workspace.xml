@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7d4fa3f4-cfb1-4d32-9b1d-56a2c1163118" name="Changes" comment="Implementacion de Calculadora y CalculadoraTest.">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+    <list default="true" id="7d4fa3f4-cfb1-4d32-9b1d-56a2c1163118" name="Changes" comment="Soporte de pruebas parametricas unitarias.">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ec/epn/edu/CalculadoraExecute.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,9 +54,14 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.CalculadoraExecute.executor": "Run",
     "JUnit.CalculadoraTest.executor": "Run",
     "JUnit.CalculadoraTest.testSumar.executor": "Run",
+    "JUnit.CalculadoraTestConParametros.executor": "Run",
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "Maven.Calculadora [clean].executor": "Run",
+    "Maven.Calculadora [package].executor": "Run",
+    "Maven.Calculadora [test].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
@@ -71,7 +77,20 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.CalculadoraTestConParametros">
+  <component name="RunManager" selected="Application.CalculadoraExecute">
+    <configuration name="CalculadoraExecute" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ec.epn.edu.CalculadoraExecute" />
+      <module name="Calculadora" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ec.epn.edu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CalculadoraTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Calculadora" />
       <extension name="coverage">
@@ -120,6 +139,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CalculadoraExecute" />
         <item itemvalue="JUnit.CalculadoraTestConParametros" />
         <item itemvalue="JUnit.CalculadoraTest" />
         <item itemvalue="JUnit.CalculadoraTest.testSumar" />
@@ -142,7 +162,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1729642643052</updated>
-      <workItem from="1729642644232" duration="1975000" />
+      <workItem from="1729642644232" duration="4377000" />
     </task>
     <task id="LOCAL-00001" summary="Implementacion de Calculadora y CalculadoraTest.">
       <option name="closed" value="true" />
@@ -152,7 +172,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729645366429</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Soporte de pruebas parametricas unitarias.">
+      <option name="closed" value="true" />
+      <created>1729645820755</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1729645820755</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -172,6 +200,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Implementacion de Calculadora y CalculadoraTest." />
-    <option name="LAST_COMMIT_MESSAGE" value="Implementacion de Calculadora y CalculadoraTest." />
+    <MESSAGE value="Soporte de pruebas parametricas unitarias." />
+    <option name="LAST_COMMIT_MESSAGE" value="Soporte de pruebas parametricas unitarias." />
   </component>
 </project>
