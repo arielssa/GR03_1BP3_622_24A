@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7d4fa3f4-cfb1-4d32-9b1d-56a2c1163118" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ec/epn/edu/Calculadora.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ec/epn/edu/CalculadoraTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    <list default="true" id="7d4fa3f4-cfb1-4d32-9b1d-56a2c1163118" name="Changes" comment="Implementacion de Calculadora y CalculadoraTest.">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +39,9 @@
     "accountId": "cba04d8a-7dca-4623-8bf4-3554b1d5aa38"
   }
 }]]></component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 5
 }]]></component>
@@ -71,7 +71,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.CalculadoraTest">
+  <component name="RunManager" selected="JUnit.CalculadoraTestConParametros">
     <configuration name="CalculadoraTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Calculadora" />
       <extension name="coverage">
@@ -82,6 +82,21 @@
       </extension>
       <option name="PACKAGE_NAME" value="ec.epn.edu" />
       <option name="MAIN_CLASS_NAME" value="ec.epn.edu.CalculadoraTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculadoraTestConParametros" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Calculadora" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ec.epn.edu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ec.epn.edu" />
+      <option name="MAIN_CLASS_NAME" value="ec.epn.edu.CalculadoraTestConParametros" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -105,6 +120,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.CalculadoraTestConParametros" />
         <item itemvalue="JUnit.CalculadoraTest" />
         <item itemvalue="JUnit.CalculadoraTest.testSumar" />
       </list>
@@ -126,15 +142,36 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1729642643052</updated>
-      <workItem from="1729642644232" duration="1667000" />
+      <workItem from="1729642644232" duration="1975000" />
     </task>
+    <task id="LOCAL-00001" summary="Implementacion de Calculadora y CalculadoraTest.">
+      <option name="closed" value="true" />
+      <created>1729645366429</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1729645366429</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="Implementacion de Calculadora y CalculadoraTest." />
+    <option name="LAST_COMMIT_MESSAGE" value="Implementacion de Calculadora y CalculadoraTest." />
   </component>
 </project>
